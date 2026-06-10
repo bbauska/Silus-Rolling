@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow: 
 
-Sitemap: https://github.com/bbauska/silusgw-rolling, https://silusgw-rolling.bauska.org
+Sitemap: https://github.com/bbauska/silus-rolling, https://silus-rolling.bauska.org
